@@ -15,11 +15,11 @@ It's for anyone who keeps meaning to go for a walk or run but either forgets, or
 
 Live app: https://YOUR-APP.onrender.com
 
-![SkyGap showing the best hour and a 12 hour AQI strip](SCREENSHOT_URL)
+![SkyGap showing the best hour and a 12 hour AQI strip](https://raw.githubusercontent.com/ms-singh83/SkyGap/claude/determined-thompson-2kmiwe/docs/screenshot-placeholder.png)
 
 Here's the reason it exists, a photo from the walk I took at the hour it picked:
 
-![Photo from my walk](WALK_PHOTO_URL)
+![Photo from my walk](https://raw.githubusercontent.com/ms-singh83/SkyGap/claude/determined-thompson-2kmiwe/docs/walk-photo-placeholder.png)
 
 ## Code
 
